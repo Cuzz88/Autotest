@@ -1,7 +1,7 @@
 package com.course.testng;
 
 import org.testng.annotations.Test;
-import org.w3c.dom.ls.LSOutput;
+
 
 public class ExpectedException {
 
